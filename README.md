@@ -4,7 +4,7 @@ Details the analysis bulk RNA sequencing of whole blood in Cynomolgus Macaques g
 Codes for trimming, filtering, alignment and counting in Preprocessingcodes/ folder
 * Note: as is these codes are likely not reproducible on another system.  Provided so that interested parties can see parameters that were used at each preprocessing step 
 
-R markdown for analysis in the Analysis/ folder 
+R code for analysis in the Analysis/ folder 
 
 # Data 
 
