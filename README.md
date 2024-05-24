@@ -7,5 +7,6 @@ Codes for trimming, filtering, alignment and counting in Preprocessingcodes/ fol
 R code for analysis in the Analysis/ folder 
 
 # Data 
+Count matrix and raw fastq files can be found here https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE268204
 
 # Citation
